@@ -1,3 +1,5 @@
+//3rd commit is just to see if my name is attached to commit
+
 //made a new helper method called arrayAsString which turns the array
 //into a string so I can tell the user what the values in their arrays are.
 //This is usually called a 'toString' method, but normally it would be in a separate class called Array
